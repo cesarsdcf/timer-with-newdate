@@ -1,2 +1,1 @@
-# timer-with-newdate
- Cronômetro com new Date
+Esse cronômetro foi feito por mim ultilando o Objeto Date para contabilizar os segundo do tempo.
